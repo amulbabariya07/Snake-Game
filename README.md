@@ -11,7 +11,7 @@ This is a simple implementation of the classic Snake Game using JavaScript.
 ## Features
 
 - Simple and intuitive controls.
-- Score counter to keep track of your progress..
+- Score counter to keep track of your progress.
 - Responsive design for a seamless gameplay experience on various devices.
 
 -Amul Babariya
